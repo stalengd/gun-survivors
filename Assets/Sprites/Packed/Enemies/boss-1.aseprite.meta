@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9d9b3e46865f5984cabde9e28a472a51
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f31e5f4b2b123fe438b63024b2123e34, type: 3}
+  importType: 0
+  settings:
+    targetChildObject: 
+    pixelPerUnit: 16
+    alignment: 7
+    customPivot: {x: 0, y: 0}
+    densePack: 1
+    border: 3
+    outputController: {instanceID: 0}
+  sharedSettings: {instanceID: 0}

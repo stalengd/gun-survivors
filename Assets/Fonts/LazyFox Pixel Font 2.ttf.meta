@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3ae299d08c323184b98448f41348ae5a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LazyFox Pixel Font 4w
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c542bfa197efb904e953634f8deb0475, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
